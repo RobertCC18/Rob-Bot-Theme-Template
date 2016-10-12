@@ -1,0 +1,15 @@
+/******************************************************************
+Theme Name: Rob-Bot Theme Template
+Theme URI: http://robbotdev.com
+Description: This is a basic theme template that can be altered to fit all your needs.
+Author: Robert Crawford
+Author URI: http://www.robbotdev.com
+Version: 1.0
+Tags: fluid-layout, responsive-layout, accessibility-ready, translation-ready, microformats, rtl-language-support
+
+License: WTFPL
+License URI: http://sam.zoy.org/wtfpl/
+
+.sticky {}          /* DO NOT EDIT THIS */
+.gallery-caption {} /* THESE ARE USELESS */
+.bypostauthor {}    /* THEY ARE ONLY TO KEEP THEME CHECK HAPPY */
